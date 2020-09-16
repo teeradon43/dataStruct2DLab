@@ -1,13 +1,13 @@
-# Lab Data Structure 
+# Data Structure : Lab Python :snake:
 
 
-## Stack
+## Stack :books:
 - [ ] append
 - [ ] pop
-## Queue
+## Queue :walking::walking::walking:
 - [ ] enqueue
 - [ ] dequeue
-## LinkedLists
+## LinkedLists :arrow_forward::arrow_forward::arrow_forward:
 - [ ] Singly
 - [ ] Doubly
 - [ ] Circular
