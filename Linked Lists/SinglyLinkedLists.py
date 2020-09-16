@@ -1,3 +1,6 @@
+"""
+ Lab01 : Create node and LinkedLists Class
+"""
 class Node:
     
     def __init__(self, data, next = None):
