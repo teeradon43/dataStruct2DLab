@@ -1,1 +1,4 @@
-# dataStruct2DLab
+# Lab Data Structure 
+[] Stack
+[] Queue
+[] LinkedLists
