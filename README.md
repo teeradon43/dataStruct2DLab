@@ -1,10 +1,14 @@
 # Lab Data Structure 
 
 
-## - [ ] Stack
-      - append
-      - pop
-## - [ ] Queue
-      - enqueue
-      - dequeue
-## - [x] LinkedLists
+## Stack
+- [ ] append
+- [ ] pop
+## Queue
+- [ ] enqueue
+- [ ] dequeue
+## LinkedLists
+- [ ] Singly
+- [ ] Doubly
+- [ ] Circular
+- [ ] Dummy Node
