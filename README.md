@@ -1,4 +1,6 @@
 # Lab Data Structure 
-[ ] Stack
-[ ] Queue
-[x] LinkedLists
+
+
+ [ ] Stack
+ [ ] Queue
+ [x] LinkedLists
