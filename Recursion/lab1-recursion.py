@@ -31,5 +31,11 @@ def print1toN(n): #print number 1 to n
 	else:
 		print(n)
 
+def fib(n): # return fibonachi sequence value of n pos
+	if n <= 1:
+		return n
+	else:
+		return fib(n-1) + fib(n-2)
+
 if __name__ == '__main__':
-	print1toN(7)
+	print(fib(8))
