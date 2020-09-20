@@ -24,5 +24,12 @@ def printNto1(n): #print number n to 1
 		print(n)
 		return printNto1(n-1)
 
+def print1toN(n): #print number 1 to n
+	if n > 1:
+		print(n)
+		return (print1toN(n-1))
+	else:
+		print(n)
+
 if __name__ == '__main__':
-	printNto1(7)
+	print1toN(7)
