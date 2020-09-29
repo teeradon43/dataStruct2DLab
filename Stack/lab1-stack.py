@@ -28,3 +28,12 @@ class Stack():
     def size(self):
         return len(self.items)
 
+if __name__ == '__main__':
+    s = Stack()
+    name = input('Enter your name : ')
+    for i in name:
+        s.push(i)
+    print(s.items)
+    
+    
+        
