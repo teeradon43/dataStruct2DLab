@@ -37,5 +37,6 @@ def fib(n): # return fibonachi sequence value of n pos
 	else:
 		return fib(n-1) + fib(n-2)
 
+def binarySearch(lo,hi,x,l): # search x in l list by return index if l has x else return None
 if __name__ == '__main__':
 	print(fib(8))
